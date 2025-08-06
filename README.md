@@ -1,3 +1,5 @@
+UPD: Все функии уровня 1 + добавлен столбец sentiment в таблицу "reviews" + использована модель ИИ (https://huggingface.co/blanchefort/rubert-base-cased-sentiment) для автоматичесской классификации тональности отзыва о фильме (positive, negative, neutral)
+
 Установка и запуск проекта
 1)Клонировать репозиторий и активировать окружение
 
