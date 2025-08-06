@@ -3,7 +3,7 @@ UPD: Все функии уровня 1 + добавлен столбец sentim
 Установка и запуск проекта
 1)Клонировать репозиторий и активировать окружение
 
-git clone https://github.com/your-username/movie-reviews.git
+git clone https://github.com/ap3814887/movies_reviews_project_lvl1.git
 cd movie_reviews
 python -m venv venv
 venv\Scripts\activate
